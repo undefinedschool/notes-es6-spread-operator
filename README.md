@@ -3,7 +3,7 @@
 
 > 👉 Si te resultó útil, **se agradece que lo compartas para que le llegue a más gente!**
 
-# ![https://i.imgur.com/r2wZ2FS.png](https://i.imgur.com/jmOquTu.png)
+# ![ES6: Spread operator](https://i.imgur.com/r2wZ2FS.png)
 
 El _spread operator_ se utiliza para _dispersar_ los elementos de una _colección_ (objeto con ciertas propiedades) iterable (por ejemplo _arrays_ y _sets_), y tratarlos como cosas sueltas
 
