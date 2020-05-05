@@ -5,7 +5,7 @@
 
 # ![ES6: Spread operator](https://i.imgur.com/r2wZ2FS.png)
 
-El _spread operator_ se utiliza para _dispersar_ los elementos de una _colección_ (objeto con ciertas propiedades) iterable (por ejemplo _arrays_ y _sets_), y tratarlos como cosas sueltas
+El _spread operator_ se utiliza para _dispersar_ los elementos de una _colección_ (objeto con ciertas propiedades) iterable (por ejemplo [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) y [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)), y tratarlos como cosas sueltas
 
 ```js
 const nums1 = [1, 2, 3];
